@@ -1,4 +1,0 @@
----
-slug: rxswift
-name: RxSwift
----
