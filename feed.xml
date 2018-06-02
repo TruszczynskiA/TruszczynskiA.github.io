@@ -3,15 +3,15 @@
   <channel>
     <title>Just another iOS blog</title>
     <description></description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://truszczynskia.github.io</link>
+    <atom:link href="https://truszczynskia.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>RxSwift #1 - Fundamentals</title>
         <description>A brief article about RxSwift fundamentals</description>
         <pubDate>Sat, 02 Jun 2018 00:00:00 +0200</pubDate>
-        <link>/posts/rxswift-1-fundamentals</link>
-        <guid isPermaLink="true">/posts/rxswift-1-fundamentals</guid>
+        <link>https://truszczynskia.github.io/posts/rxswift-1-fundamentals</link>
+        <guid isPermaLink="true">https://truszczynskia.github.io/posts/rxswift-1-fundamentals</guid>
       </item>
     
   </channel>

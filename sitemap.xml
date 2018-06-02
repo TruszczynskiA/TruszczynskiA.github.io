@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/tag/rxswift/</loc>
-<lastmod>2018-06-02T08:53:05+02:00</lastmod>
+<loc>https://truszczynskia.github.io/tag/rxswift/</loc>
+<lastmod>2018-06-02T09:57:51+02:00</lastmod>
 </url>
 <url>
-<loc>/tag/swift/</loc>
-<lastmod>2018-06-02T08:53:05+02:00</lastmod>
+<loc>https://truszczynskia.github.io/tag/swift/</loc>
+<lastmod>2018-06-02T09:57:51+02:00</lastmod>
 </url>
 <url>
-<loc>/posts/rxswift-1-fundamentals</loc>
+<loc>https://truszczynskia.github.io/posts/rxswift-1-fundamentals</loc>
 <lastmod>2018-06-02T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>/about</loc>
+<loc>https://truszczynskia.github.io/about</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://truszczynskia.github.io/</loc>
 </url>
 </urlset>
